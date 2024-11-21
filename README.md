@@ -1,3 +1,10 @@
+Gabriel Ortiz Oliva Gil - RM: 98642 – 2TDSPK
+Rafael Noboru Watanabe Nasaha - RM:99948 – 2TDSPK
+João Pedro Kraide Máximo - RM:550974 – 2TDSPK
+Matheus de Andrade Ferreira - RM:99375 – 2TDSPK
+Larissa Pereira Biusse - RM:551062 - 2TDSPK
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -7,7 +14,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 1. Install dependencies
 
    ```bash
-   npm install
+   npm install --legacy-peer-deps
+   código possiu conflito de dependência
    ```
 
 2. Start the app
